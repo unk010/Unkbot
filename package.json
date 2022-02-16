@@ -1,0 +1,20 @@
+{
+  "name": "hhjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "story.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon story.js"
+  },
+  "author": "Unkestory",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "fs.js": "0.0.1",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.13",
+    "ytdl-core": "^4.9.1"
+  }
+}
