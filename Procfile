@@ -1,1 +1,1 @@
-Worker: javascript story.js
+Worker: Node.js  node story.js
